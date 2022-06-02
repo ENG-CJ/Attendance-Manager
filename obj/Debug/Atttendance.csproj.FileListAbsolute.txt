@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\Atttendance\bin\Debug\Atttendance.exe.config
+C:\Users\PC\source\repos\Atttendance\bin\Debug\Atttendance.exe
+C:\Users\PC\source\repos\Atttendance\bin\Debug\Atttendance.pdb
+C:\Users\PC\source\repos\Atttendance\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\PC\source\repos\Atttendance\bin\Debug\Guna.UI2.dll
+C:\Users\PC\source\repos\Atttendance\bin\Debug\SaaUI.dll
+C:\Users\PC\source\repos\Atttendance\bin\Debug\SaaUI.xml
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.Properties.Resources.resources
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.Views.resources
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.csproj.CopyComplete
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.exe
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.pdb
+C:\Users\PC\source\repos\Atttendance\obj\Debug\Atttendance.Attendances.resources
